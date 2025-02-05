@@ -1,12 +1,5 @@
-## Hi there 👋
+Sonic is the highest-performing EVM L1 blockchain, combining speed, incentives, and world-class infrastructure. The chain provides 10,000 TPS and sub-second finality.
 
-<!--
+Sonic's Fee Monetization (FeeM) program rewards developers with up to 90% of the fees their apps generate, adapting the Web2 ad-revenue model to a decentralized framework. Developers now directly profit from their app's traffic and user engagement.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Furthermore, the Sonic Gateway provides developers and users with seamless access to vast liquidity through a native, secure bridge connected to Ethereum. With a unique fail-safe mechanism, it ensures your assets are protected in all circumstances.
